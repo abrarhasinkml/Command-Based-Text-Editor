@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1439129557 source:f:\ulab\semester 3\cse201,202\143014038\main.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<windows.h>
+	<fstream>
+
